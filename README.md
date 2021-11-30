@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Brie!
 
-## Junior developer specializing in data analysis.
+<h4> Junior developer specializing in data analysis.</h4>
 
 My interest in data analysis was sparked by a favorite professor while I worked towards my B.A. in Political Science.<br>
 No surprise, a lot of my interests touch on issues of politics and public policy, specifically, the role both have in our daily lives.<br><br>
@@ -16,7 +16,15 @@ The back end is my happy place, but I keep building new skills and practicing ol
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriePowell&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-Let's Connect:<br>
+## On the personal side...
+- I'm a sci-fi nerd with a passion for story telling.
+- I've been working on a creative writing project for more than 6 years...I'm persistent.
+- I have a near encyclopedic knowledge of all things Beyonce and Star Trek...I am the trivia Queen!
+- I'm a huge nerd who finds the weeds, the minutia, and the details super. 
+
+<!--![Spock, logical](href="https://giphy.com/gifs/star-trek-wow-spock-n8SkNR77udWlG") -->
+
+Let's Connect!<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/briepowell)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/@92Brie)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/briebrie92)
