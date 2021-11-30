@@ -9,7 +9,7 @@ My interest in data analysis was sparked by a favorite professor while I worked 
 No surprise, a lot of my interests touch on issues of politics and public policy, specifically, the role both have in our daily lives.<br><br>
 
 I believe that data plays an important role in telling complex, human stories. A well crafted narrative can shape the world.<br>
-Well analyzed data can enhance a narrative, and a thorough narrative can make cold, calculating data real.<br><br>
+Well analyzed data can enhance a narrative and a thorough narrative can make cold, calculating data real.<br><br>
 
 I'm a new programmer, mostly self-taught, with experience on both front- and back-end projects.<br>
 The back end is my happy place, but I keep building new skills and practicing old ones too.<br><br>
