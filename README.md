@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BriePowell
-- 👀 I’m interested in usnig data to tell human stories.
+- 👀 I’m interested in usnig data to tell nuanced stories.
 - 🌱 I’m currently learning Python. Up next is SQL and a refresher on R from my college days!
 - 💞️ I’m looking to collaborate on beginner friendly projects!
 - 📫 How to reach me: @92Brie on twitter or @briebrie92 on instagram.
