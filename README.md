@@ -20,7 +20,7 @@ The back end is my happy place, but I keep building new skills and practicing ol
 - I'm a sci-fi nerd with a passion for story telling.
 - I've been working on a creative writing project for more than 6 years...I'm persistent.
 - I have a near encyclopedic knowledge of all things Beyonce and Star Trek...I am the trivia Queen!
-- I'm a huge nerd who finds the weeds, the minutia, and the details super. 
+- I'm a huge dork who finds the weeds, the minutia, and the details super interesting. 
 
 <!--![Spock, logical](href="https://giphy.com/gifs/star-trek-wow-spock-n8SkNR77udWlG") -->
 
