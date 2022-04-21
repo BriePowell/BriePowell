@@ -11,7 +11,7 @@ We all benefit when the data that drives so much of our lives is well understood
 
 I'm a new programmer, mostly self-taught, with experience on both front- and back-end projects.<br>
 The back end is my happy place, but I keep building new skills and practicing old ones too.<br>
-+ Please note that a lot of these projects are done in my free time and are incomplete or rough first drafts. + <br><br>
+-- Please note that a lot of these projects are done in my free time and are incomplete or rough first drafts -- <br><br>
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BriePowell&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
