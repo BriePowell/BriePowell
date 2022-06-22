@@ -11,6 +11,7 @@ We all benefit when the data that drives so much of our lives is well understood
 
 I'm a new programmer, mostly self-taught, with experience on both front- and back-end projects.<br>
 The back end is my happy place, but I keep building new skills and practicing old ones too.<br>
+<br>
 -- Please note that a lot of these projects are done in my free time and are incomplete or rough first drafts -- <br><br>
 
 <p>
