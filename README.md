@@ -14,11 +14,6 @@ The back end is my happy place, but I keep building new skills and practicing ol
 <br>
 -- Please note that a lot of these projects are done in my free time and are incomplete or rough first drafts -- <br><br>
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BriePowell&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriePowell&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
 ## On the personal side...
 - I'm a sci-fi nerd with a passion for story telling.
 - I've been working on a creative writing project for more than 6 years...I'm persistent.
